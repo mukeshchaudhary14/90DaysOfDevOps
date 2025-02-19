@@ -1,4 +1,4 @@
-Here’s a detailed breakdown of how to complete the tasks and document them in `solution.md`. I'll guide you step-by-step for each task and provide the content for `solution.md`.
+
 
 ---
 
@@ -200,4 +200,3 @@ Here’s a detailed breakdown of how to complete the tasks and document them in 
 
 ---
 
-Let me know if you need further assistance!
